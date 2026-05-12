@@ -32,3 +32,9 @@ You typically should not need to modify the other files.
 
 - Keep your bibliography entries in `mybib.bib`.
 - Figures should be placed in the `figures/` folder.
+
+## Credits
+
+Made by Benjamin Bock in 2026.
+
+Anyone can fork and improve this template: it is free-access and distributed under the CC0 1.0 license.
