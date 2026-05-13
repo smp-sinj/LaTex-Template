@@ -2,6 +2,7 @@
 
 This repository provides a report template intended to be used **on Overleaf** with the **XeLaTeX** compiler.  
 It is set up so users can focus on writing content while keeping the structure and styling consistent.
+It can be found at the [GitHub repo](https://github.com/smp-sinj/LaTex-Template)
 
 ## Purpose
 
